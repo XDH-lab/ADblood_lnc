@@ -1,4 +1,4 @@
-#  Association of blood-based DNA methylation of lncRNAs with Alzheimer's disease diagnosis**
+#  Association of blood-based DNA methylation of lncRNAs with Alzheimer's disease diagnosis
 
 Guanghui Tian, Dehua Zheng, Nihui Zhang, Wanxin Deng, Jiankai Xu, Chenqing Huang, Qiang Chen, Shasha Hu, Li Xin, Hong Wang, Bo Wang, Kongning Li, Dahua Xu
 
