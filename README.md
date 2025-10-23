@@ -23,7 +23,7 @@ Logistic regression analysis was conducted on DNA methylation data derived from 
 |Pamr.R          |`ABIL`|https://github.com/XDH-lab/ADblood_lnc/blob/main/ML/Pamr.R|
 |rfFuncs.R       |`AIBL`            |https://github.com/XDH-lab/ADblood_lnc/blob/main/ML/rfFuncs.R|
 |Xgboost.R       |`ABIL`|https://github.com/XDH-lab/ADblood_lnc/blob/main/ML/Xgboost.R|
-|venn.R          |`AIBL`            |-|
+|venn.R          |`-`|https://github.com/XDH-lab/ADblood_lnc/blob/main/ML/venn.R|
 |Logistic Regression Modeling.R|`ABIL&ADNI&AddNeuroMed`|https://github.com/XDH-lab/ADblood_lnc/blob/main/ML/Logistic%20Regression%20Modeling.R|
 
 ### 3.Nomogram
