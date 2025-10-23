@@ -66,7 +66,7 @@ install.packages("/path/to/ADNIMERGE_0.0.1.tar.gz", repos = NULL, type = "source
 ```
 The platform information are:
 ```r
-version   R version 4.3.2 (2021-05-18)
+version   R version 4.3.2 (2023-10-31)
  os       CentOS Linux 8          
  system   aarch64, linux4.18​          
  ui       RStudio                     
